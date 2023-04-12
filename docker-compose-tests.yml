@@ -1,0 +1,8 @@
+version: '3'
+services:
+  app:
+    build: .
+    volumes:
+      - .:/app
+    container_name: test_runner
+    network_mode: host
