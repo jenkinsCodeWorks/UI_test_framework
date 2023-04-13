@@ -1,2 +1,3 @@
 selenium==4.8.3
 pytest==7.3.0
+a-selenium-screenshot-whole-page==0.10
